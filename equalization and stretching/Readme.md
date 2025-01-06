@@ -4,7 +4,9 @@ I learned about Equalization and Histogram Stretching. I think we need to know w
 
 Before we know about them we need to know about "image contrast". It's simply says that the difference between bright region and dark region.
 
-!https://private-user-images.githubusercontent.com/144921119/398060275-bc5d7cd7-2fa5-4409-a5e8-210f2956aa50.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYxMzg5MTcsIm5iZiI6MTczNjEzODYxNywicGF0aCI6Ii8xNDQ5MjExMTkvMzk4MDYwMjc1LWJjNWQ3Y2Q3LTJmYTUtNDQwOS1hNWU4LTIxMGYyOTU2YWE1MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwNlQwNDQzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYWVkNTAyZGU1NTQzNWQ4M2FkOGM0OTU2YWNmODJlMjNjYjk3ZTYyN2Y3NDhmYTZmYjQyMDUxOTU4ODY0ZWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gDS5gSwQE-N2ZILAWLLMAgI0yGiSZLxiqCH1k-wD_CM
+![image](https://github.com/user-attachments/assets/fb7899bb-5884-4a63-8687-9643e20b3323)
+
+
 
 If we look at these 4 images. All left box have the same intensity but it seems a little difference because of the right box. The same color can appear differntly depending on the brightness of adjacent colors, which can cause confusion in images where contrast is low.
 
