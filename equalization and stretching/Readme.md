@@ -50,7 +50,7 @@ This is the result! It seems that the goal of improving image contrast has been 
 
 These results clearly show the difference between the two methods.
 
-<Original image>
+<Original_image>
 
 ![image](https://github.com/user-attachments/assets/fb5e93f0-23fa-4c16-b358-580ad219c606)
 
